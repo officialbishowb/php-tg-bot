@@ -16,7 +16,7 @@ A simple PHP Bot which was previously designed to work as a Bot manager
   <ul>
     <li>/ban -> can ban a user</li>
     <li>/unban -> can unban a user</li>
-    <li>/lock -> will lock the bot not msg will be forwared</li>
+    <li>/lock -> will lock the bot no msg will be forwared</li>
     <li>/code -> add a giveaway code will be used as detection (extra feature)</li>
     <li>/giveawaymode ->when <i>on</i> then only code that is a giveaway code will be forwared (extra feature)</li>
   </ul>
