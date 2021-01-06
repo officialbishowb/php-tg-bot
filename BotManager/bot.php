@@ -60,7 +60,7 @@ if(file_get_contents("lockedUnlocked.txt")=="false" || $userId==$adminid){
     }
     ////////////////////////////////////=[CMDS COMMAND]= ////////////////////////////////////
     elseif((strpos($message,"/cmds")===0) || (strpos($message,"!cmds")===0)){
-        sendMessage($chatId,"<b>All user commands</b>%0A/mystat <b>|</b> <code>Will give your info</code>%0A/nextgiveaway <b>|</b> <code>know when next giveaway is</code>%0A/randomgen <b>|</b> <code>generates random account</code>%0A/mynotes <b>|</b> <code>Your notes</code>%0A%0A<b>/stop</b> <i>a special command to stop the bot without blocking</i>%0A%0A<b>For Admins</b>%0A/ban <i>id</i>%0A/unban <i>id</i>%0A/lock <i>'true' or 'false'</i>  <b>|</b> <code>lock the bot</code>%0A/code <i>code</i>  <b>|</b> <code>add code to detect valid giveaway code</code>%0A/giveawaymode <i>'on' or 'off'</i>  <b>|</b> <code>will turn bot into giveaway mode</code>",$message_id);
+        sendMessage($chatId,"<b>All user commands</b>%0A/mystat <b>|</b> <code>Will give your info</code>%0A/nextgiveaway <b>|</b> <code>know when next giveaway is</code>%0A/mynotes <b>|</b> <code>Your notes</code>%0A%0A<b>/stop</b> <i>a special command to stop the bot without blocking</i>%0A%0A<b>For Admins</b>%0A/ban <i>id</i>%0A/unban <i>id</i>%0A/lock <i>'true' or 'false'</i>  <b>|</b> <code>lock the bot</code>%0A/code <i>code</i>  <b>|</b> <code>add code to detect valid giveaway code</code>%0A/giveawaymode <i>'on' or 'off'</i>  <b>|</b> <code>will turn bot into giveaway mode</code>",$message_id);
     }
     ////////////////////////////////////=[STAT COMMAND]= ////////////////////////////////////
     elseif((strpos($message,"/mystat")===0) ||  (strpos($message,"!mystat")===0)){
@@ -71,10 +71,6 @@ if(file_get_contents("lockedUnlocked.txt")=="false" || $userId==$adminid){
         $filegiveaway=fopen("nextgiveaway.txt",'r');
         $getContent=fread($filegiveaway,filesize("nextgiveaway.txt"));
         sendMessage($chatId,"Giveaway: <code> $getContent </code>",$message_id);
-    }
-    ////////////////////////////////////=[GEN COMMAND]= ////////////////////////////////////
-    elseif((strpos($message,"/randomgen")===0) || (strpos($message,"!randomgen")===0)){
-        sendMessage($chatId,"Feature coming soon...",$message_id);
     }
     ////////////////////////////////////=[NOTES COMMAND]= ////////////////////////////////////
     elseif((strpos($message,"/mynotes")===0) || (strpos($message,"!mynotes")===0)){
