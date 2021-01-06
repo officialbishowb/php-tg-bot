@@ -1,5 +1,5 @@
 # Php-Bot
-A simple PHP Bot which was previously designed to work as a Bot manager
+A simple PHP code which is designed to work as a Bot manager
 
 <h1>Php Telegram Bot manager</h1>
 
