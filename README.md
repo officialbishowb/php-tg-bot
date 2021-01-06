@@ -21,7 +21,7 @@ A simple PHP Bot which was previously designed to work as a Bot manager
     <li>/giveawaymode ->when <i>on</i> then only code that is a giveaway code will be forwared (extra feature)</li>
   </ul>
   
-  <h3>NOTE: THIS Bot is not yet used as it has some missing function</h3>
+  <h3>NOTE: This BOT is not yet used as it has some missing function</h3>
   <ol>
   <li>For Admin -> Reply to sender message</li>
   <li>FOr Admin -> Broadcast a message to all user in the bot. PHP dont work well</li>
