@@ -10,7 +10,7 @@ A simple PHP Bot which was previously designed to work as a Bot manager
     <li>/mystat -> gives user stat</li>
     <li>/nextgiveaway -> to know when next giveaway is (extra feature)</li>
     <li>/mynotes -> can save notes</li>
-    <li><b>/stop</b> -> stops the - bot no need to block</li>
+    <li><b>/stop</b> -> stops the bot-no need to block</li>
   </ul>
 <h3>Commands that are avaiable for admins/owner</h3>
   <ul>
