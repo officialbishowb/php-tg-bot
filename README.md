@@ -26,3 +26,6 @@ A simple PHP Bot which was previously designed to work as a Bot manager
   <li>For Admin -> Reply to sender message</li>
   <li>FOr Admin -> Broadcast a message to all user in the bot. PHP dont work well</li>
   </ol>
+
+
+<p>Orignal creator: <a href="t.me/beanonymousofficial">Bishow</a></p>
