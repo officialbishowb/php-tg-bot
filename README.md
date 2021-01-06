@@ -28,4 +28,4 @@ A simple PHP Bot which was previously designed to work as a Bot manager
   </ol>
 
 
-<p>Orignal creator: <a href="t.me/beanonymousofficial">Bishow</a></p>
+<p>Orignal creator: <a href="https://t.me/beanonymousofficial">Bishow</a></p>
