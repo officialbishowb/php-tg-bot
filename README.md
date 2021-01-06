@@ -24,7 +24,7 @@ A simple PHP Bot which was previously designed to work as a Bot manager
   <h3>NOTE: This BOT is not yet used as it has some missing function</h3>
   <ol>
   <li>For Admin -> Reply to sender message</li>
-  <li>FOr Admin -> Broadcast a message to all user in the bot. PHP dont work well</li>
+  <li>For Admin -> Broadcast a message to all user in the bot. PHP dont work well</li>
   </ol>
 
 
