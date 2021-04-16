@@ -38,4 +38,4 @@ A simple PHP code which is designed to work as a Bot manager
   
     
 
-<p>Orignal creator: <a href="https://t.me/beanonymousofficial">Bishow</a></p>
+<p>Orignal creator: <a href="https://t.me/beanonymousofficial">Bishow Bhattarai</a></p>
