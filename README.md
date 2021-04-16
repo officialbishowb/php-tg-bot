@@ -27,7 +27,7 @@ A simple PHP code which is designed to work as a Bot manager
   <li>Enter your API Token in the bot.php file</li>
   <li>Setup the webhook by https://api.telegram.org/bot.$botToken./setwebhook?url=url. For <b>url</b> use your hosting site url which redirects to the bot.php file </li>
   </ol>
-  <p>After that the should start working</p>
+  <p>After that the bot should start working</p>
   
   <h3>NOTE: This BOT is not yet used as it has some missing function</h3>
   <ol>
