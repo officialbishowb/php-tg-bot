@@ -40,4 +40,4 @@ A simple PHP code which is designed to work as a Bot manager
   
     
 
-<p>Orignal creator: <a href="https://t.me/officialbishowb">Bishow Bhattarai</a></p>
+<p>Creator: <a href="https://t.me/officialbishowb">Bishow Bhattarai</a></p>
