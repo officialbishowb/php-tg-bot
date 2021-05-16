@@ -34,6 +34,8 @@ A simple PHP code which is designed to work as a Bot manager
   <li>For Admin -> Reply to sender message</li>
   <li>For Admin -> Broadcast a message to all user in the bot. PHP dont work well</li>
   </ol>
+  <h3>Upcoming updates</h3>
+  <p>Using Database (like phpmyAdmin) instead of .txt files</p>
 
   
     
