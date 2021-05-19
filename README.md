@@ -26,7 +26,7 @@
   </ol>
   <p>After that the bot should start working</p>
   
-  <h3>NOTE: This BOT is not yet used as it has some missing function</h3>
+  <h3>NOTE: This BOT is not used yet as it has some missing function</h3>
   <ol>
   <li>For Admin -> Reply to sender message</li>
   <li>For Admin -> Broadcast a message to all user in the bot. PHP dont work well</li>
