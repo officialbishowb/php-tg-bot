@@ -1,5 +1,4 @@
-# Php-Bot
-<h1>Php Telegram Bot manager</h1>
+# Php Telegram Bot manager
 
 <h2>This Php code is designed to manage a simple Telegram Bot</h2>
 <h3>It has also some extra function for people who do <b>Giveaway</b> in Telegram</h3>
