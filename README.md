@@ -37,4 +37,4 @@
   
     
 
-<p>Creator: <a href="https://t.me/officialbishowb">Bishow Bhattarai</a></p>
+<p>Author: <a href="https://t.me/officialbishowb">Bishow Bhattarai</a></p>
